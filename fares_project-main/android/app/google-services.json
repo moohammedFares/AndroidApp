@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991213914954",
+    "project_id": "faresproject-2261d",
+    "storage_bucket": "faresproject-2261d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991213914954:android:a02fb143684c0427d5cfb3",
+        "android_client_info": {
+          "package_name": "com.example.fares_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt3vmDGe0sVKDdlk6tjdj6mTJJX_poNoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
